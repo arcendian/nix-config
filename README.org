@@ -1,0 +1,8 @@
+#+TITLE: configuration.nx
+#+AUTHOR: Michael Espeña
+#+DESCRIPTION: Work-in-progress configuration.nixfmt
+
+* About
+
+My work-in-progress NixOS configuration; just practicing and tyring Nix for fun.
+
